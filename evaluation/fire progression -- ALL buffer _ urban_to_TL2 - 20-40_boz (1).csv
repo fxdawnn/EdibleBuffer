@@ -1,0 +1,149 @@
+name,Urban area burned (square meters),Buffer type,Time since fire ignition (hours)
+Tubbs_urban_to_TL2_1009_0600,31077.1463,Baseline,21
+Tubbs_urban_to_TL2_1009_0700,50184.85772,Baseline,21
+Tubbs_urban_to_TL2_1009_0800,,Baseline,21
+Tubbs_urban_to_TL2_1009_0900,47457.0347,Baseline,24
+Tubbs_urban_to_TL2_1009_1000,784650.8039,Baseline,24
+Tubbs_urban_to_TL2_1009_1100,3071837.046,Baseline,24
+Tubbs_urban_to_TL2_1009_1200,3417863.502,Baseline,27
+Tubbs_urban_to_TL2_1009_1300,4335341.032,Baseline,27
+Tubbs_urban_to_TL2_1009_1400,3932914.123,Baseline,27
+Tubbs_urban_to_TL2_1009_1500,4491833.602,Baseline,30
+Tubbs_urban_to_TL2_1009_1600,6427412.466,Baseline,30
+Tubbs_urban_to_TL2_1009_1700,7224120.671,Baseline,30
+Tubbs_urban_to_TL2_1009_1800,9816861.377,Baseline,33
+Tubbs_urban_to_TL2_1009_1900,,Baseline,33
+Tubbs_urban_to_TL2_1009_2000,11086956.83,Baseline,33
+Tubbs_urban_to_TL2_1009_2100,12202957.59,Baseline,36
+Tubbs_urban_to_TL2_1009_2200,14727384.26,Baseline,36
+Tubbs_urban_to_TL2_1009_2300,16741742.79,Baseline,36
+Tubbs_urban_to_TL2_1010_0000,15887402.09,Baseline,39
+Tubbs_urban_to_TL2_1010_0100,15671661.91,Baseline,39
+Tubbs_urban_to_TL2_1010_0200,18259466.74,Baseline,39
+,,,
+Tubbs_urban_to_TL2_NB3_buffer390_1009_0600,23304.68791,NB3 small,21
+Tubbs_urban_to_TL2_NB3_buffer390_1009_0700,74780.91577,NB3 small,21
+Tubbs_urban_to_TL2_NB3_buffer390_1009_0800,298330.9342,NB3 small,21
+Tubbs_urban_to_TL2_NB3_buffer390_1009_0900,160568.53,NB3 small,24
+Tubbs_urban_to_TL2_NB3_buffer390_1009_1000,654152.1596,NB3 small,24
+Tubbs_urban_to_TL2_NB3_buffer390_1009_1100,2071262.982,NB3 small,24
+Tubbs_urban_to_TL2_NB3_buffer390_1009_1200,3833341.392,NB3 small,27
+Tubbs_urban_to_TL2_NB3_buffer390_1009_1300,4150381.747,NB3 small,27
+Tubbs_urban_to_TL2_NB3_buffer390_1009_1400,5324065.482,NB3 small,27
+Tubbs_urban_to_TL2_NB3_buffer390_1009_1500,4900615.783,NB3 small,30
+Tubbs_urban_to_TL2_NB3_buffer390_1009_1600,5217989.24,NB3 small,30
+Tubbs_urban_to_TL2_NB3_buffer390_1009_1700,7796507.642,NB3 small,30
+Tubbs_urban_to_TL2_NB3_buffer390_1009_1800,5982771.514,NB3 small,33
+Tubbs_urban_to_TL2_NB3_buffer390_1009_1900,8924438.728,NB3 small,33
+Tubbs_urban_to_TL2_NB3_buffer390_1009_2000,5783429.609,NB3 small,33
+Tubbs_urban_to_TL2_NB3_buffer390_1009_2100,10828584.93,NB3 small,36
+Tubbs_urban_to_TL2_NB3_buffer390_1009_2200,13964505.13,NB3 small,36
+Tubbs_urban_to_TL2_NB3_buffer390_1009_2300,10939763.39,NB3 small,36
+Tubbs_urban_to_TL2_NB3_buffer390_1010_0000,14803959.05,NB3 small,39
+Tubbs_urban_to_TL2_NB3_buffer390_1010_0100,9253416.72,NB3 small,39
+Tubbs_urban_to_TL2_NB3_buffer390_1010_0200,14855621.47,NB3 small,39
+Tubbs_urban_to_TL2_banana_buffer390_1009_0600,631.118018,Banana small,21
+Tubbs_urban_to_TL2_banana_buffer390_1009_0700,246049.9447,Banana small,21
+Tubbs_urban_to_TL2_banana_buffer390_1009_0800,390261.257,Banana small,21
+Tubbs_urban_to_TL2_banana_buffer390_1009_0900,1379428.43,Banana small,24
+Tubbs_urban_to_TL2_banana_buffer390_1009_1000,1308870.11,Banana small,24
+Tubbs_urban_to_TL2_banana_buffer390_1009_1100,1153927.828,Banana small,24
+Tubbs_urban_to_TL2_banana_buffer390_1009_1200,718149.4773,Banana small,27
+Tubbs_urban_to_TL2_banana_buffer390_1009_1300,3187928.415,Banana small,27
+Tubbs_urban_to_TL2_banana_buffer390_1009_1400,3427642.134,Banana small,27
+Tubbs_urban_to_TL2_banana_buffer390_1009_1500,3322394.998,Banana small,30
+Tubbs_urban_to_TL2_banana_buffer390_1009_1600,6895899.06,Banana small,30
+Tubbs_urban_to_TL2_banana_buffer390_1009_1700,6941269.872,Banana small,30
+Tubbs_urban_to_TL2_banana_buffer390_1009_1800,3811900.52,Banana small,33
+Tubbs_urban_to_TL2_banana_buffer390_1009_1900,7052571.939,Banana small,33
+Tubbs_urban_to_TL2_banana_buffer390_1009_2000,9132947.636,Banana small,33
+Tubbs_urban_to_TL2_banana_buffer390_1009_2100,8206265.561,Banana small,36
+Tubbs_urban_to_TL2_banana_buffer390_1009_2200,11500239.24,Banana small,36
+Tubbs_urban_to_TL2_banana_buffer390_1009_2300,8631254.313,Banana small,36
+Tubbs_urban_to_TL2_banana_buffer390_1009_2400,14928900.7,Banana small,39
+Tubbs_urban_to_TL2_banana_buffer390_1010_0100,11532986.95,Banana small,39
+Tubbs_urban_to_TL2_banana_buffer390_1010_0200,15019325.44,Banana small,39
+Tubbs_urban_to_TL2_nb_buffer633_1009_0600,0,NB3 medium,21
+Tubbs_urban_to_TL2_nb_buffer633_1009_0700,0,NB3 medium,21
+Tubbs_urban_to_TL2_nb_buffer633_1009_0800,0,NB3 medium,21
+Tubbs_urban_to_TL2_nb_buffer633_1009_0900,7108.715855,NB3 medium,24
+Tubbs_urban_to_TL2_nb_buffer633_1009_1000,77409.77735,NB3 medium,24
+Tubbs_urban_to_TL2_nb_buffer633_1009_1100,424164.9949,NB3 medium,24
+Tubbs_urban_to_TL2_nb_buffer633_1009_1200,194904.4064,NB3 medium,27
+Tubbs_urban_to_TL2_nb_buffer633_1009_1300,2741443.018,NB3 medium,27
+Tubbs_urban_to_TL2_nb_buffer633_1009_1400,3158445.056,NB3 medium,27
+Tubbs_urban_to_TL2_nb_buffer633_1009_1500,2517093.01,NB3 medium,30
+Tubbs_urban_to_TL2_nb_buffer633_1009_1600,3242865.647,NB3 medium,30
+Tubbs_urban_to_TL2_nb_buffer633_1009_1700,4862100.781,NB3 medium,30
+Tubbs_urban_to_TL2_nb_buffer633_1009_1800,3446783.875,NB3 medium,33
+Tubbs_urban_to_TL2_nb_buffer633_1009_1900,8274735.735,NB3 medium,33
+Tubbs_urban_to_TL2_nb_buffer633_1009_2000,3399668.466,NB3 medium,33
+Tubbs_urban_to_TL2_nb_buffer633_1009_2100,4300955.027,NB3 medium,36
+Tubbs_urban_to_TL2_nb_buffer633_1009_2200,4991758.048,NB3 medium,36
+Tubbs_urban_to_TL2_nb_buffer633_1009_2300,8179938.107,NB3 medium,36
+Tubbs_urban_to_TL2_nb_buffer633_1009_2400,5478460.45,NB3 medium,39
+Tubbs_urban_to_TL2_nb_buffer633_1010_0100,8398935.691,NB3 medium,39
+Tubbs_urban_to_TL2_nb_buffer633_1010_0200,7460650.3,NB3 medium,39
+Tubbs_urban_to_TL2_banana_buffer633_1009_0600,3810.25609,Banana medium,21
+Tubbs_urban_to_TL2_banana_buffer633_1009_0700,0,Banana medium,21
+Tubbs_urban_to_TL2_banana_buffer633_1009_0800,0,Banana medium,21
+Tubbs_urban_to_TL2_banana_buffer633_1009_0900,797.664131,Banana medium,24
+Tubbs_urban_to_TL2_banana_buffer633_1009_1000,16903.98654,Banana medium,24
+Tubbs_urban_to_TL2_banana_buffer633_1009_1100,1079780.635,Banana medium,24
+Tubbs_urban_to_TL2_banana_buffer633_1009_1200,169630.6759,Banana medium,27
+Tubbs_urban_to_TL2_banana_buffer633_1009_1300,1818232.562,Banana medium,27
+Tubbs_urban_to_TL2_banana_buffer633_1009_1400,2539610.658,Banana medium,27
+Tubbs_urban_to_TL2_banana_buffer633_1009_1500,3074857.974,Banana medium,30
+Tubbs_urban_to_TL2_banana_buffer633_1009_1600,4153742.089,Banana medium,30
+Tubbs_urban_to_TL2_banana_buffer633_1009_1700,4792513.759,Banana medium,30
+Tubbs_urban_to_TL2_banana_buffer633_1009_1800,3640787.739,Banana medium,33
+Tubbs_urban_to_TL2_banana_buffer633_1009_1900,3678193.42,Banana medium,33
+Tubbs_urban_to_TL2_banana_buffer633_1009_2000,4726541.314,Banana medium,33
+Tubbs_urban_to_TL2_banana_buffer633_1009_2100,4337471.247,Banana medium,36
+Tubbs_urban_to_TL2_banana_buffer633_1009_2200,6029744.673,Banana medium,36
+Tubbs_urban_to_TL2_banana_buffer633_1009_2300,10258628.62,Banana medium,36
+Tubbs_urban_to_TL2_banana_buffer633_1009_2400,9523822.557,Banana medium,39
+Tubbs_urban_to_TL2_banana_buffer633_1010_0100,6414253.209,Banana medium,39
+Tubbs_urban_to_TL2_banana_buffer633_1010_0200,7322580.143,Banana medium,39
+Tubbs_urban_to_TL2_banana_buffer1280_1009_0600,0,Banana very large,21
+Tubbs_urban_to_TL2_banana_buffer1280_1009_0700,0,Banana very large,21
+Tubbs_urban_to_TL2_banana_buffer1280_1009_0800,0,Banana very large,21
+Tubbs_urban_to_TL2_banana_buffer1280_1009_0900,0,Banana very large,24
+Tubbs_urban_to_TL2_banana_buffer1280_1009_1000,0,Banana very large,24
+Tubbs_urban_to_TL2_banana_buffer1280_1009_1100,0,Banana very large,24
+Tubbs_urban_to_TL2_banana_buffer1280_1009_1200,0,Banana very large,27
+Tubbs_urban_to_TL2_banana_buffer1280_1009_1300,0,Banana very large,27
+Tubbs_urban_to_TL2_banana_buffer1280_1009_1400,0,Banana very large,27
+Tubbs_urban_to_TL2_banana_buffer1280_1009_1500,0,Banana very large,30
+Tubbs_urban_to_TL2_banana_buffer1280_1009_1600,0,Banana very large,30
+Tubbs_urban_to_TL2_banana_buffer1280_1009_1700,0,Banana very large,30
+Tubbs_urban_to_TL2_banana_buffer1280_1009_1800,0,Banana very large,33
+Tubbs_urban_to_TL2_banana_buffer1280_1009_1900,0,Banana very large,33
+Tubbs_urban_to_TL2_banana_buffer1280_1009_2000,0,Banana very large,33
+Tubbs_urban_to_TL2_banana_buffer1280_1009_2100,0,Banana very large,36
+Tubbs_urban_to_TL2_banana_buffer1280_1009_2200,0,Banana very large,36
+Tubbs_urban_to_TL2_banana_buffer1280_1009_2300,0,Banana very large,36
+Tubbs_urban_to_TL2_banana_buffer1280_1010_0000,0,Banana very large,39
+Tubbs_urban_to_TL2_banana_buffer1280_1010_0100,0,Banana very large,39
+Tubbs_urban_to_TL2_banana_buffer1280_1010_0200,0,Banana very large,39
+Tubbs_urban_to_TL2_nb_buffer1280_1009_0600,0,NB3 very large,21
+Tubbs_urban_to_TL2_nb_buffer1280_1009_0700,0,NB3 very large,21
+Tubbs_urban_to_TL2_nb_buffer1280_1009_0800,0,NB3 very large,21
+Tubbs_urban_to_TL2_nb_buffer1280_1009_0900,0,NB3 very large,24
+Tubbs_urban_to_TL2_nb_buffer1280_1009_1000,0,NB3 very large,24
+Tubbs_urban_to_TL2_nb_buffer1280_1009_1100,0,NB3 very large,24
+Tubbs_urban_to_TL2_nb_buffer1280_1009_1200,0,NB3 very large,27
+Tubbs_urban_to_TL2_nb_buffer1280_1009_1300,0,NB3 very large,27
+Tubbs_urban_to_TL2_nb_buffer1280_1009_1400,0,NB3 very large,27
+Tubbs_urban_to_TL2_nb_buffer1280_1009_1500,0,NB3 very large,30
+Tubbs_urban_to_TL2_nb_buffer1280_1009_1600,0,NB3 very large,30
+Tubbs_urban_to_TL2_nb_buffer1280_1009_1700,0,NB3 very large,30
+Tubbs_urban_to_TL2_nb_buffer1280_1009_1800,0,NB3 very large,33
+Tubbs_urban_to_TL2_nb_buffer1280_1009_1900,0,NB3 very large,33
+Tubbs_urban_to_TL2_nb_buffer1280_1009_2000,0,NB3 very large,33
+Tubbs_urban_to_TL2_nb_buffer1280_1009_2100,0,NB3 very large,36
+Tubbs_urban_to_TL2_nb_buffer1280_1009_2200,0,NB3 very large,36
+Tubbs_urban_to_TL2_nb_buffer1280_1009_2300,0,NB3 very large,36
+Tubbs_urban_to_TL2_nb_buffer1280_1010_0000,0,NB3 very large,39
+Tubbs_urban_to_TL2_nb_buffer1280_1010_0100,0,NB3 very large,39
+Tubbs_urban_to_TL2_nb_buffer1280_1010_0200,0,NB3 very large,39

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder id="Farsite Fireline Intensity" targetId="Farsite Fireline Intensity">
+	<name>Farsite Fireline Intensity</name>
+	<GroundOverlay>
+		<name>Farsite Fireline Intensity</name>
+		<color>afffffff</color>
+		<drawOrder>-1</drawOrder>
+		<Icon>
+			<href>files/FarsiteFirelineIntensity.png</href>
+			<refreshInterval>0</refreshInterval>
+			<viewRefreshTime>0</viewRefreshTime>
+		</Icon>
+		<LatLonBox>
+			<north>38.7309</north>
+			<south>38.3522</south>
+			<east>-122.45</east>
+			<west>-122.9618</west>
+		</LatLonBox>
+	</GroundOverlay>
+	<ScreenOverlay>
+		<name>Farsite Fireline Intensity Legend</name>
+		<Icon>
+			<href>files/FarsiteFirelineIntensityLegend.png</href>
+			<refreshInterval>0</refreshInterval>
+			<viewRefreshTime>0</viewRefreshTime>
+			<viewBoundScale>0</viewBoundScale>
+		</Icon>
+		<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="156" y="230" xunits="pixels" yunits="pixels"/>
+	</ScreenOverlay>
+</Folder>
+</kml>

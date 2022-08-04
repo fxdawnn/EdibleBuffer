@@ -1,0 +1,13 @@
+name,re urban burn,time,wind_type,buffer_type,time_since_ignited
+Tubbs_urban_to_TL2_banana_buffer_wind_3_1009_1500,21410.2876,1009_1500,wind_3,banana,29
+Tubbs_urban_to_TL2_banana_buffer_wind_3_1009_1800,278235.1461,1009_1800,wind_3,banana,32
+Tubbs_urban_to_TL2_banana_buffer_wind_3_1009_2100,66623.99182,1009_2100,wind_3,banana,35
+Tubbs_urban_to_TL2_banana_buffer_wind_3_1010_0000,451421.3511,1010_0000,wind_3,banana,38
+Tubbs_urban_to_TL2_banana_buffer_wind_3_1010_0300,740227.3248,1010_0300,wind_3,banana,41
+Tubbs_urban_to_TL2_banana_buffer_wind_3_1010_0600,2120690.216,1010_0600,wind_3,banana,44
+Tubbs_urban_to_TL2_no_buffer_wind_3_1009_1500,2302.701639,1009_1500,wind_3,no,29
+Tubbs_urban_to_TL2_no_buffer_wind_3_1009_1800,162030.1129,1009_1800,wind_3,no,32
+Tubbs_urban_to_TL2_no_buffer_wind_3_1009_2100,336299.5167,1009_2100,wind_3,no,35
+Tubbs_urban_to_TL2_no_buffer_wind_3_1010_0000,2914857.496,1010_0000,wind_3,no,38
+Tubbs_urban_to_TL2_no_buffer_wind_3_1010_0300,5025764.287,1010_0300,wind_3,no,41
+Tubbs_urban_to_TL2_no_buffer_wind_3_1010_0600,5019507.128,1010_0600,wind_3,no,44
