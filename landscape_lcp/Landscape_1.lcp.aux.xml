@@ -1,0 +1,136 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DESCRIPTION"></MDI>
+    <MDI key="LATITUDE">38</MDI>
+    <MDI key="LINEAR_UNIT">Meters</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Elevation</Description>
+    <Metadata>
+      <MDI key="ELEVATION_FILE">D:\scratch\dist\lf16285728\us_200lcp40\output\rastert_elevation_1.txt</MDI>
+      <MDI key="ELEVATION_MAX">1319</MDI>
+      <MDI key="ELEVATION_MIN">0</MDI>
+      <MDI key="ELEVATION_NUM_CLASSES">-1</MDI>
+      <MDI key="ELEVATION_UNIT">0</MDI>
+      <MDI key="ELEVATION_UNIT_NAME">Meters</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1319</MDI>
+      <MDI key="STATISTICS_MEAN">222.99993009134</MDI>
+      <MDI key="STATISTICS_MINIMUM">-9999</MDI>
+      <MDI key="STATISTICS_STDDEV">209.26447607193</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>Slope</Description>
+    <Metadata>
+      <MDI key="SLOPE_FILE">D:\scratch\dist\lf16285728\us_200lcp40\output\rastert_slope_1.txt</MDI>
+      <MDI key="SLOPE_MAX">58</MDI>
+      <MDI key="SLOPE_MIN">0</MDI>
+      <MDI key="SLOPE_NUM_CLASSES">58</MDI>
+      <MDI key="SLOPE_UNIT">0</MDI>
+      <MDI key="SLOPE_UNIT_NAME">Degrees</MDI>
+      <MDI key="STATISTICS_MAXIMUM">58</MDI>
+      <MDI key="STATISTICS_MEAN">11.128319925588</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">9.6595740861603</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>Aspect</Description>
+    <Metadata>
+      <MDI key="ASPECT_FILE">D:\scratch\dist\lf16285728\us_200lcp40\output\rastert_aspect_1.txt</MDI>
+      <MDI key="ASPECT_MAX">359</MDI>
+      <MDI key="ASPECT_MIN">0</MDI>
+      <MDI key="ASPECT_NUM_CLASSES">-1</MDI>
+      <MDI key="ASPECT_UNIT">2</MDI>
+      <MDI key="ASPECT_UNIT_NAME">Azimuth degrees</MDI>
+      <MDI key="STATISTICS_MAXIMUM">359</MDI>
+      <MDI key="STATISTICS_MEAN">137.88480818534</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">116.4764012439</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>Fuel models</Description>
+    <Metadata>
+      <MDI key="FUEL_MODEL_FILE">D:\scratch\dist\lf16285728\us_200lcp40\output\rastert_fuel1.txt</MDI>
+      <MDI key="FUEL_MODEL_MAX">202</MDI>
+      <MDI key="FUEL_MODEL_MIN">91</MDI>
+      <MDI key="FUEL_MODEL_NUM_CLASSES">27</MDI>
+      <MDI key="FUEL_MODEL_OPTION">0</MDI>
+      <MDI key="FUEL_MODEL_OPTION_DESC">no custom models AND no conversion file needed</MDI>
+      <MDI key="FUEL_MODEL_VALUES">91,93,98,99,101,102,103,121,122,141,142,145,147,161,162,163,165,181,182,183,184,185,186,187,188,189,202</MDI>
+      <MDI key="STATISTICS_MAXIMUM">202</MDI>
+      <MDI key="STATISTICS_MEAN">134.81863926835</MDI>
+      <MDI key="STATISTICS_MINIMUM">91</MDI>
+      <MDI key="STATISTICS_STDDEV">37.212480000173</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>Canopy cover</Description>
+    <Metadata>
+      <MDI key="CANOPY_COV_FILE">D:\scratch\dist\lf16285728\us_200lcp40\output\rastert_canopy1.txt</MDI>
+      <MDI key="CANOPY_COV_MAX">85</MDI>
+      <MDI key="CANOPY_COV_MIN">0</MDI>
+      <MDI key="CANOPY_COV_NUM_CLASSES">9</MDI>
+      <MDI key="CANOPY_COV_UNIT">1</MDI>
+      <MDI key="CANOPY_COV_UNIT_NAME">Percent</MDI>
+      <MDI key="STATISTICS_MAXIMUM">85</MDI>
+      <MDI key="STATISTICS_MEAN">25.452820483387</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">27.7177182519</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>Canopy height</Description>
+    <Metadata>
+      <MDI key="CANOPY_HT_FILE">D:\scratch\dist\lf16285728\us_200lcp40\output\rastert_height_1.txt</MDI>
+      <MDI key="CANOPY_HT_MAX">430</MDI>
+      <MDI key="CANOPY_HT_MIN">0</MDI>
+      <MDI key="CANOPY_HT_NUM_CLASSES">12</MDI>
+      <MDI key="CANOPY_HT_UNIT">3</MDI>
+      <MDI key="CANOPY_HT_UNIT_NAME">Meters x 10</MDI>
+      <MDI key="STATISTICS_MAXIMUM">430</MDI>
+      <MDI key="STATISTICS_MEAN">110.39008297791</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">122.24518062006</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>Canopy base height</Description>
+    <Metadata>
+      <MDI key="CBH_FILE">D:\scratch\dist\lf16285728\us_200lcp40\output\rastert_base_1.txt</MDI>
+      <MDI key="CBH_MAX">100</MDI>
+      <MDI key="CBH_MIN">0</MDI>
+      <MDI key="CBH_NUM_CLASSES">74</MDI>
+      <MDI key="CBH_UNIT">3</MDI>
+      <MDI key="CBH_UNIT_NAME">Meters x 10</MDI>
+      <MDI key="STATISTICS_MAXIMUM">100</MDI>
+      <MDI key="STATISTICS_MEAN">18.52238475373</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">30.679241089937</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>Canopy bulk density</Description>
+    <Metadata>
+      <MDI key="CBD_FILE">D:\scratch\dist\lf16285728\us_200lcp40\output\rastert_density_1.txt</MDI>
+      <MDI key="CBD_MAX">45</MDI>
+      <MDI key="CBD_MIN">0</MDI>
+      <MDI key="CBD_NUM_CLASSES">18</MDI>
+      <MDI key="CBD_UNIT">3</MDI>
+      <MDI key="CBD_UNIT_NAME">kg/m^3 x 100</MDI>
+      <MDI key="STATISTICS_MAXIMUM">45</MDI>
+      <MDI key="STATISTICS_MEAN">4.5846145015587</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">6.4679849940796</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
